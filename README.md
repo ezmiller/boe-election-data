@@ -7,7 +7,7 @@ in distinct rows with specific start/stop columns for each piece of data.
 For a description of the layout of the BoE text files, see the BoE's 
 [tally-export-file-description.pdf](https://github.com/ezmiller/boe-election-data/blob/master/tally-export-file-description.pdf).
 
-For each election year of data, there are three CSV files:
+For each election year of data, there are three (tab separated) CSV files:
   * boe-ge-/*year*/-election-data.csv
   * boe-ge-/*year*/-candidates.csv
   * boe-ge-/*year*/-ed-totals.csv
